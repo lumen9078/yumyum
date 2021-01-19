@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food1">
+        <item>보스찜닭</item>
+        <item>도란도락</item>
+
+    </string-array>
+    <string-array name="food2">
+        <item>김군파닭</item>
+        <item>이춘봉치킨</item>
+
+    </string-array>
+    <string-array name="food3">
+        <item>이삭토스트</item>
+        <item>백봉</item>
+
+    </string-array>
+</resources>
